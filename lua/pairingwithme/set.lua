@@ -1,4 +1,5 @@
 vim.g.mapleader = " "
+vim.opt.mouse = ""
 
 vim.opt.termguicolors = true
 
